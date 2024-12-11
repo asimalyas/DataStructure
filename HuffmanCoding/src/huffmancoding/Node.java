@@ -2,10 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-//Group 12
-//Muhammad Asim Ilyas (FA22-BSE-111)          (1st Member)    Group Leader
-//Muhammad Faizyab    (FA22-BSE-017)          (3rd Member)  
-//Fahim ullah         (SP22-BSE-024)          (2nd Member)
+
 package huffmancoding;
 
 /**
