@@ -1,8 +1,5 @@
 package huffmancoding;
-//Group 12
-//Muhammad Asim Ilyas (FA22-BSE-111)          (1st Member)    Group Leader
-//Muhammad Faizyab    (FA22-BSE-017)          (3rd Member)  
-//Fahim ullah         (SP22-BSE-024)          (2nd Member)
+
 import java.io.*;
 import java.util.PriorityQueue;
 
